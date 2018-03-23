@@ -1,4 +1,4 @@
-# qtlearning
+# Qt Learning Demos
 Qt4/Qt5 demos
 
 ## 1. CoolChart
